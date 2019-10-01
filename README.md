@@ -58,4 +58,4 @@ Once you have all your values entered, you can check out the template.py file to
 
 In the debug output is first the keywords and then each company it finds in the list
 
-All completed Cover Letters will be found in the letters/ folder
+All completed Cover Letters will be found in the `letters/` folder
