@@ -23,7 +23,8 @@ CD into the CoverLetter directory and run:
 
 ### To activate the virtual environment:
 On Windows: `.\venv\Scripts\activate`
-On Linux/Mac `source venv/bin/activate`
+
+On Linux/Mac: `source venv/bin/activate`
 
 ### To deactivate the virtual environment:
 `.\venv\Scripts\deactivate`
