@@ -22,7 +22,8 @@ CD into the CoverLetter directory and run:
 `python -m venv venv`
 
 ### To activate the virtual environment:
-`.\venv\Scripts\activate`
+On Windows: `.\venv\Scripts\activate`
+On Linux/Mac `source venv/bin/activate`
 
 ### To deactivate the virtual environment:
 `.\venv\Scripts\deactivate`
