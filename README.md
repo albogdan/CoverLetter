@@ -4,8 +4,11 @@ This is a generator that takes in a CLTemplate.docx (CL = Cover Letter) file and
 
 ## Files
 `CLTemplate.docx` - Your Cover Letter Template
+
 `template.csv` - Template mapper that has all of the parameters you want to replace in your Cover Letter. Each line in the CSV corresponds to a customized Cover Letter.
-`template.py` - Mapper
+
+`template.py` - Mapper python file
+
 `README.md` - This file
 
 ## 1. Environment Setup
@@ -45,7 +48,8 @@ Once you have all your values entered, you can check out the template.py file to
 3. Font Name - Note that this is kept constant throughout the document
 4. Font Size - Note that this is kept constant throughout the document
 
-Once you have adjusted your parameters to your liking you can run the program using:
+**Once you have adjusted your parameters to your liking you can run the program using:**
+
 `python template.py`
 
 In the debug output is first the keywords and then each company it finds in the list
