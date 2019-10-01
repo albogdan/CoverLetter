@@ -2,6 +2,8 @@
 
 This is a generator that takes in a CLTemplate.docx (CL = Cover Letter) file and a template.csv file and generates a cover letter with the keywords substituted in.
 
+I have included examples of a Cover Letter Template and a template.csv mapper to help you get started!
+
 ## Files
 `CLTemplate.docx` - Your Cover Letter Template
 
